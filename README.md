@@ -30,7 +30,11 @@ hoặc
 🧠 Công nghệ sử dụng
 Công nghệ	Vai trò
 React.js (Vite)	Framework chính để xây dựng giao diện.
+
 React Router DOM	Quản lý điều hướng giữa các trang.
+
 React Icons	Bộ icon hiển thị trong sidebar.
+
 Chart.js / Recharts	Vẽ biểu đồ thống kê trong Dashboard.
+
 TailwindCSS / CSS Custom	Giao diện hiện đại, linh hoạt.
